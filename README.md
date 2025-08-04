@@ -1,10 +1,8 @@
-# 90days-Digital-Design
-A 90 day Guide to excel in digital design logics and also Soc designs.
-
-
 # 90days Digital-Design 
 
-## Welcome to My 90-Day Digital Design Journey
+A 90 day Guide to excel in digital design logics and also Soc designs.
+
+## Welcome to 90-Day Digital Design Journey
 
 This repository is a personal commitment to mastering **Digital Design Logics** and **SoC (System-on-Chip)** design from scratch to an advanced level — over a span of 90 days. I'm not here to just *learn* — I'm here to **design**, **implement**, and **excel**.
 
